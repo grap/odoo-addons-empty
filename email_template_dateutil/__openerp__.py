@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
-    'name': 'account_delete_move_null_amount TO DELETE',
+    'name': 'TO DELETE - email_template_dateutil',
     'version': '8.0.1.0.0',
     'category': 'useless',
     'author': 'GRAP',

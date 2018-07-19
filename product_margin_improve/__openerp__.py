@@ -21,7 +21,7 @@
 ##############################################################################
 
 {
-    'name': 'Product Margin - Improve',
+    'name': 'TO DELETE - product_margin_improve',
     'version': '0.2',
     'category': 'Product',
     'description': """

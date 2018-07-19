@@ -4,7 +4,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {
-    'name': 'Product - Standard Price VAT Included',
+    'name': 'TO DELETE - product_standard_price_vat_incl',
     'summary': "Brings a standard Price with VAT Included on Products",
     'version': '8.0.1.0.0',
     'category': 'Product',

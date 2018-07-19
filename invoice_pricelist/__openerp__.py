@@ -4,7 +4,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {
-    'name': 'Invoice Price List',
+    'name': 'TO DELETE - invoice_pricelist',
     'version': '1.0',
     'category': 'account',
     'author': 'GRAP',

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
-    'name': 'manage_accounts_integrity TO DELETE',
+    'name': 'TO DELETE - manage_accounts_integrity',
     'version': '8.0.1.0.0',
     'category': 'useless',
     'author': 'GRAP',

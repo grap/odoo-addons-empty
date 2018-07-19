@@ -22,7 +22,7 @@
 ##############################################################################
 
 {
-    'name': 'Point Of Sale & Sale Reporting',
+    'name': 'TO DELETE - pos_sale_reporting',
     'summary': 'Add reports merging sale and point of sale informations',
     'version': '0.2',
     'category': 'Point Of Sale',

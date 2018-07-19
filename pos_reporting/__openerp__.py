@@ -22,7 +22,7 @@
 ##############################################################################
 
 {
-    'name': 'Point of Sale Reporting',
+    'name': 'TO DELETE - pos_reporting',
     'version': '3.0',
     'category': 'Point of Sale',
     'description': """

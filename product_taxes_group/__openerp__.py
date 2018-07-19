@@ -3,7 +3,7 @@
 # @author: Sylvain LE GAL (https://twitter.com/legalsylvain)
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
-    'name': 'Product - Taxes Group - OBSOLETE',
+    'name': 'TO DELETE - product_taxes_group',
     'summary': 'Simplify taxes management for products with Taxes Group',
     'version': '8.0.6.0.0',
     'category': 'product',
